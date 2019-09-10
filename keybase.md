@@ -8,7 +8,7 @@ I hereby claim:
 
 To claim this, I am signing this object:
 
-json
+```json
 {
   "body": {
     "key": {
@@ -42,7 +42,7 @@ json
   "seqno": 5,
   "tag": "signature"
 }
-
+```
 
 with the key [ASDEMi3iznU5jQBtvAfNJ1MGDg25ttiUFqX3U0nnIiKzuwo](https://keybase.io/fred1), yielding the signature:
 
