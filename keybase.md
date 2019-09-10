@@ -46,10 +46,10 @@ To claim this, I am signing this object:
 
 with the key [ASDEMi3iznU5jQBtvAfNJ1MGDg25ttiUFqX3U0nnIiKzuwo](https://keybase.io/fred1), yielding the signature:
 
-
+```
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxDIt4s51OY0AbbwHzSdTBg4NubbYlBal91NJ5yIis7sKp3BheWxvYWTESpcCBcQgKMZf4Ys5f7ee4gBk5RG+iFMeSrgKvyLHs3XmBglRULTEIOg6HlhW9YApygB2twfeRVcn9jqNGDsZPJ4lVcH9qL1UAgHCo3NpZ8RA7t6kCds9whst26skERH6VJJhKu59FoD3PtyQNUpKOzyMjSetFQuyBfrKMjwhrt3saVndWzFP6+5tpmuEUR2zDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJRvOwKB8kk18Y7ie1JpEqdZQPdrhO5O/qqpjos58fBfo3RhZ80CAqd2ZXJzaW9uAQ==
 
-
+```
 
 And finally, I am proving ownership of the github account by posting this as a gist.
 
@@ -61,6 +61,7 @@ https://keybase.io/fred1
 
 Consider the [keybase command line program](https://keybase.io/download).
 
-bash
+```bash
 # look me up
 keybase id fred1
+```
